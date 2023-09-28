@@ -10,3 +10,6 @@ function getAllIndexes(arr, val) {
 }
 
 console.log(getAllIndexes(Input, ''));
+
+
+

@@ -30,8 +30,8 @@ elfSums.sort(function (a,b) {
 });
 
 // Find the number of calories for the elf with the highest calories
-console.log(elfSums[0]);
+console.log(elfSums[0]); // Part 1 answer.
 
 
 // Find the sum of the first three elements.
-console.log(elfSums[0] + elfSums[1] + elfSums[2]);
+console.log(elfSums[0] + elfSums[1] + elfSums[2]); // Part 2 answer.
